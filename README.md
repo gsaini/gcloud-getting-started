@@ -3,6 +3,8 @@ Google Cloud Platform - getting started!!
 
 
 # To run app
+`npm install`
+
 `npm start`
 
 # To deploy application on cloud
