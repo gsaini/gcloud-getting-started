@@ -8,7 +8,8 @@ Google Cloud Platform - getting started!!
 `npm start`
 
 # Prerequisite to run gcloud command -
-  Please follow below url to install Google Cloud SDK...
+  
+  Install the Google Cloud SDK on local machine to develop locally
   
   https://cloud.google.com/sdk/docs/quickstart-macos
   
