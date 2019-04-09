@@ -11,3 +11,6 @@ Google Cloud Platform - getting started!!
 `gcloud app create`
 
 `gcloud app deploy`
+
+# stream logs from the command line by running:
+ `gcloud app logs tail -s default`
